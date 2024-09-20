@@ -1,0 +1,1 @@
+简易的ChatGPT网页封装，就相当于在chrome中打开chatgpt网站
